@@ -2,14 +2,15 @@
 
 ## Resources
 
-#### Read or watch:
+#### Read or watch about:
 
-* [](https://intranet.alxswe.com/concepts/12)
-* [](https://intranet.alxswe.com/concepts/13)
-* [](https://intranet.alxswe.com/concepts/17)
-* [](https://intranet.alxswe.com/concepts/33)
-* [](https://intranet.alxswe.com/concepts/46)
-* [](https://intranet.alxswe.com/concepts/67)
+* Network basics
+* Server
+* Web server
+* DNS
+* Load balancer
+* Monitoring
+  
 ## Learning Objectives
 
 ### General
